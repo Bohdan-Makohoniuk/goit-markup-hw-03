@@ -336,7 +336,7 @@ address {
   margin-bottom: 0px;
 }
 .list-cards .item {
-  background-color: tomato;
+  /* background-color: tomato; */
   width: 369px;
   margin-right: 30px;
 }
